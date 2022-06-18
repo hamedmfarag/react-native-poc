@@ -34,3 +34,4 @@ npm run serve // RUn and test the generated folder (web-build)
    .
    console.log(TEST_KEY);
    ```
+5. For saving data locally like tokens you can use `src/storage` by importing it. [react-native-storage](https://github.com/sunnylqm/react-native-storage#react-native-storage----)
